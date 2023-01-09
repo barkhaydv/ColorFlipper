@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+    
+    
+
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+}
+.btn{
+    padding:7px;
+    text-transform: capitalize;
+    background-color: violet;
+    border: none;
+    border-radius: 5px;
+}
+.color{
+    margin-bottom: 20px;
+    font-size: 2rem;
+}
